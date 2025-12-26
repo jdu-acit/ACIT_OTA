@@ -1,0 +1,42 @@
+{
+  "version": "0.0.1054",
+  "channel": "stable",
+  "generated_at": "2025-12-26T15:42:11.750369",
+  "files": [
+    {
+      "name": "bootloader.bin",
+      "address": "0x0",
+      "size": 22000,
+      "sha256": "7f9593fdb015f91ab479c09ec76d42af745ea4653f3ba0a98e98c04cc2b0a622",
+      "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v0.0.1054/bootloader.bin"
+    },
+    {
+      "name": "partition-table.bin",
+      "address": "0x8000",
+      "size": 3072,
+      "sha256": "9ba8f4ba5b36931feff42c9ed2f5fd27ac10053f63bf11d4c1339f52a4b518eb",
+      "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v0.0.1054/partition-table.bin"
+    },
+    {
+      "name": "ota_data_initial.bin",
+      "address": "0xd000",
+      "size": 8192,
+      "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
+      "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v0.0.1054/ota_data_initial.bin"
+    },
+    {
+      "name": "firmware.bin",
+      "address": "0x10000",
+      "size": 2417760,
+      "sha256": "a174bc32eb25eb566e22f11f3d69fdd954ea68eb2e51d6f52314fb376309101e",
+      "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v0.0.1054/firmware.bin"
+    },
+    {
+      "name": "littlefs_image.bin",
+      "address": "0x515000",
+      "size": 3035136,
+      "sha256": "0411034b92447deeb188f82b69c9260aeb22fa2aa0ac30f9fb688b4b35d8d782",
+      "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v0.0.1054/littlefs_image.bin"
+    }
+  ]
+}
