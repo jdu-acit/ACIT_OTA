@@ -1,13 +1,13 @@
 {
   "app": "thermacec",
   "channel": "stable",
-  "version": "1.0.0+1074",
-  "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v1.0.0-1074/acit_accu_thermacec_v1.0.0-1074.bin",
+  "version": "1.0.0+1075",
+  "url": "https://raw.githubusercontent.com/jdu-acit/ACIT_ACCU_ThermACEC_OTA/main/stable/v1.0.0-1075/acit_accu_thermacec_v1.0.0-1075.bin",
   "size": 2541936,
-  "sha256": "f010750cfc32a1e911cf6afbd4e53e03608a68b0229421f7457a55686e8857eb",
+  "sha256": "f5dac503ae153cbd2b983faeb0c42c944f999a67e0860f7e227166a4b511a919",
   "mandatory": false,
-  "date": "2026-03-25T10:01:37.480553",
+  "date": "2026-03-25T10:46:00.349622",
   "project": "ACIT ACCU ThermACEC",
   "project_id": "acit_accu_thermacec",
-  "version_dir": "v1.0.0-1074"
+  "version_dir": "v1.0.0-1075"
 }
