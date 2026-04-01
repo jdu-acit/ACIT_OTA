@@ -5,6 +5,7 @@
       "chip": "ESP32-C6",
       "repoOwner": "jdu-acit",
       "repoName": "ACIT_OTA",
+      "projectPath": "projects/ThermACEC",
       "binPrefix": "acit_accu_thermacec",
       "stable": [
         "v1.0.0-1090",

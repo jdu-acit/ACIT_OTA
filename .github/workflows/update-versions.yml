@@ -37,11 +37,12 @@ jobs:
 
               project_id = config["id"]
               entry = {
-                "name":      config.get("name", project_folder),
-                "chip":      config.get("chip", ""),
-                "repoOwner": config.get("repoOwner", ""),
-                "repoName":  config.get("repoName", ""),
-                "binPrefix": config.get("binPrefix", ""),
+                "name":        config.get("name", project_folder),
+                "chip":        config.get("chip", ""),
+                "repoOwner":   config.get("repoOwner", ""),
+                "repoName":    config.get("repoName", ""),
+                "projectPath": config.get("projectPath", f"projects/{project_folder}"),
+                "binPrefix":   config.get("binPrefix", ""),
                 "stable": [],
                 "beta": []
               }
